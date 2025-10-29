@@ -1,4 +1,4 @@
-elcome to the FXJSINKS Forex teaching website! This project is built with **React** and **Tailwind CSS** to provide a modern, responsive platform where pupils can explore courses, check pricing, and enroll via email.
+welcome to the FXJSINKS Forex teaching website! This project is built with **React** and **Tailwind CSS** to provide a modern, responsive platform where pupils can explore courses, check pricing, and enroll via email.
 
 ## Features
 
